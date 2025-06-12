@@ -1,6 +1,6 @@
 # Cours d'informatique en ECG2-2
 
-# Cours d'informatique de première année : [https://github.com/Eagle57f/ECG1_Info/](https://github.com/Eagle57f/ECG1_Info/)
+# Site du cours d'informatique de première année : [https://github.io/Eagle57f/ECG1_Info](https://github.io/Eagle57f/ECG1_Info)
 
 ## Sommaire
 - **[]()**
