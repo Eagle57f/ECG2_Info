@@ -117,5 +117,17 @@ n=100
 def u(n):
     return factorial(n)/(n**n)
 
-plt.plot([u(i) for i in range(0,n+1)], range(0,n+1))
+# plt.plot([u(i) for i in range(0,n+1)], range(0,n+1))
+# plt.show()
+
+# Ex 2:
+import matplotlib.pyplot as plt
+
+n=2
+def f(n,x):
+    return x**n+x-1
+x=range(-10*100,11*100)
+x=[i/100 for i in x]
+y= [f(n,i) for i in x]
+plt.plot(x,y)
 plt.show()
