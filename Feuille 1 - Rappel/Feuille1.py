@@ -1,4 +1,4 @@
-# I.Exercices
+"""# I.Exercices
 
 # 1)
 
@@ -123,11 +123,40 @@ def u(n):
 # Ex 2:
 import matplotlib.pyplot as plt
 
-n=2
+N=10
 def f(n,x):
     return x**n+x-1
-x=range(-10*100,11*100)
-x=[i/100 for i in x]
-y= [f(n,i) for i in x]
-plt.plot(x,y)
+x=range(0,1*1000)
+x=[i/1000 for i in x]
+
+
+for n in range(1,N+1):
+    y=[f(n,i) for i in x]
+    x0=x[0]
+    for i in x:
+        if abs(f(n,i))<abs(f(n,x0)):
+            x0=i
+    plt.plot(x,y)
+    plt.annotate(f"X", xy=(x0, f(n,x0)), color="red", verticalalignment="center", horizontalalignment="center")
+
 plt.show()
+
+
+# Ex 3
+
+# a)
+
+from math import sqrt
+def u(n):
+    return 0 if n==0 else 1 if n==1 else u(n-1)+u(n-2)
+print(u(10))
+
+# b)
+
+n=1
+while abs(u(n+1)/u(n)-(1+sqrt(5))/2)>10**-10:
+    n+=1
+print(u(n), n)
+"""
+
+# Ex 4
