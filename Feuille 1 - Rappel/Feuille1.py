@@ -1,4 +1,4 @@
-"""# I.Exercices
+# I.Exercices
 
 # 1)
 
@@ -157,6 +157,40 @@ n=1
 while abs(u(n+1)/u(n)-(1+sqrt(5))/2)>10**-10:
     n+=1
 print(u(n), n)
-"""
+
 
 # Ex 4
+
+# a)
+
+from math import sqrt # Ou de numpy
+
+u = 1
+S = u
+n = 0
+
+while S < 1000:
+    n += 1
+    u = sqrt(u**2 + u)
+    S += u
+print(n)
+
+
+
+n = 0
+while (n**2)/4 < 1000:
+    n += 1
+print(n) # valeur approchée de n
+
+# Ex 5
+def calcul(n):
+    I=1 # Valeur de I_0
+    for k in range(1, n+1):
+        I = I * (2*k*(2*k-1)/((2*k)**2+1))
+    return I
+
+# Pour afficher le graphique (pas demandé):
+import matplotlib.pyplot as plt
+N=200
+plt.scatter(range(1,N+1),[sqrt(i)*calcul(i) for i in range(1,N+1)], marker='+', color='green', s=15, linewidths=0.7)
+plt.show()
