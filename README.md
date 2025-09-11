@@ -2,10 +2,11 @@
 
 ### Site du cours d'informatique de première année : [https://eagle57f.github.io/ECG1_Info/](https://eagle57f.github.io/ECG1_Info/)
 
+### Dépôt GitHub de deuxième année : [![Repo GitHub](https://img.shields.io/badge/GitHub-ECG2_Info-blue?logo=github)](https://github.com/Eagle57f/ECG2_Info/)
+
 ## Sommaire
 - **[Corrections des TP](/Corrections.md)**
 
-### Dépôt GitHub : [![Repo GitHub](https://img.shields.io/badge/GitHub-ECG2_Info-blue?logo=github)](https://github.com/Eagle57f/ECG2_Info/)
 
 ## Quelques ressources pour approfondir
   
