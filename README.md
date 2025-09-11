@@ -5,7 +5,7 @@
 ## Sommaire
 - **[Corrections des TP](/Corrections.md)**
 
-## Lien vers le dépôt GitHub : [https://github.com/Eagle57f/ECG2_Info/](https://github.com/Eagle57f/ECG2_Info/)
+### Dépôt GitHub : [![Repo GitHub](https://img.shields.io/badge/GitHub-ECG2_Info-blue?logo=github)](https://github.com/Eagle57f/ECG2_Info/)
 
 ## Quelques ressources pour approfondir
   
