@@ -12,23 +12,16 @@
 
 <details>
     <summary>Quelques ressources pour approfondir</summary>
-  
-    <ul>
-        <li><strong>Vidéos (ou playlists):</strong>
-            <ul>
-                <li><strong>Graven (FR):</strong> <a href="https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR">Lien</a></li>
-                <li><strong>Docstring (FR):</strong> <a href="https://www.youtube.com/watch?v=LamjAFnybo0&list=PLXDBYzqsqO3Wut-gQktoqJ30eaOel0hgb">Lien</a></li>
-                <li><strong>FormationVidéo (FR):</strong> <a href="https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC">Lien</a></li>
-                <li><strong>NetworkChuck (EN):</strong> <a href="https://www.youtube.com/watch?v=mRMmlo_Uqcs">Lien</a></li>
-                <li><strong>freeCodeCamp.org (EN):</strong> <a href="https://www.youtube.com/watch?v=LHBE6Q9XlzI">Lien</a></li>
-            </ul>
-        </li>
-        <li><strong>Sites web:</strong>
-            <ul>
-                <li><strong>Python Doctor (FR):</strong> <a href="https://python.doctor/">Lien</a></li>
-                <li><strong>w3schools (EN):</strong> <a href="https://www.w3schools.com/">Lien</a></li>
-            </ul>
-        </li>
-    </ul>
+
+    - **Vidéos (ou playlists) :**
+        - **Graven (FR) :** [Lien](https://www.youtube.com/watch?v=psaDHhZ0cPs&list=PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR)
+        - **Docstring (FR) :** [Lien](https://www.youtube.com/watch?v=LamjAFnybo0&list=PLXDBYzqsqO3Wut-gQktoqJ30eaOel0hgb)
+        - **FormationVidéo (FR) :** [Lien](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+        - **NetworkChuck (EN) :** [Lien](https://www.youtube.com/watch?v=mRMmlo_Uqcs)
+        - **freeCodeCamp.org (EN) :** [Lien](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+
+    - **Sites web :**
+        - **Python Doctor (FR) :** [Lien](https://python.doctor/)
+        - **w3schools (EN) :** [Lien](https://www.w3schools.com/)
 </details>
 
